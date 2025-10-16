@@ -1,11 +1,11 @@
 # DJ-202
-midi compatibility files for use a Roland DJ-202 with mixxx
+MIDI compatibility files for using a Roland DJ-202 with Mixxx
 
-These files in the current repository are a mix of two files. the first one is an old Mixxx mapping of the DJ-202 and the second is a Mixxx mapping of the Roland DJ-505 where many function works perfectly with the DJ-202.
-The files are made to work with the v2.5.3 version of mixxx.
+The files currently available in the repository are a mixture of two files. The first is an old Mixxx mapping of the DJ-202 and the second is a Mixxx mapping of the Roland DJ-505, many of whose functions work perfectly with the DJ-202.
+The files are designed to work with Mixxx version 2.5.3.
 
-Actualy, this is the liste of the bugs corrections:
-✅ The Sync button work correctly
-✅ The SLIP button work correctly
-❌ The FX lights doesn't works
-❌ The middle level controlers doesn't works
+Here is the list of bug fixes:
+- ✅ The Sync button works correctly
+- ✅ The SLIP button works correctly
+- ❌ The FX lights do not work
+- ❌ The mid-level controllers do not work
